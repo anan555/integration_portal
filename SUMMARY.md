@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [产品介绍](articles/portal/1-/prod_intro.md)
-    * [产品介绍](articles/portal/1-/intro.md)
+    * [产品概述](articles/portal/1-/intro.md)
 * [功能介绍](articles/portal/2-/func_intro.md)
     * [用户映射](articles/portal/2-/user_mapping.md)
     * [应用集成管理](articles/portal/2-/integration.md)
