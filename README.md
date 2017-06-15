@@ -20,4 +20,4 @@
 
 2、此目录必须在Summary文件中。所有MD文件是UTF-8编码。
 
-3、图片的存放位置：举例：在articles/application/1-/images文件夹下，无此文件夹请自建。
+3、图片的存放位置：举例：产品介绍（1-）包含的图片在articles/application/1-/images文件夹下，无此文件夹请自建。
